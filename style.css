@@ -127,6 +127,8 @@ header .container .right {
 .landing {
   width: 100%;
   padding: 20px 0;
+  background: url("./images/Landing.png") center center/cover no-repeat;
+
 }
 
 .landing .container .prog {
